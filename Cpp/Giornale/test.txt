@@ -1,0 +1,1 @@
+12.5 Titolo1 0 1.5 Titolo2 1 2 Titolo3 0 22.7 Titolo4 0 Editore4 Periodo4 11.5 Titolo5 1 Editore5 Periodo5 6 Titolo6 0 Editore6 Periodo6 6.35 Titolo7 0 Direttore7 1 9.99 Titolo8 1 Direttore8 0 5 Titolo9 0 Direttore9 1 
